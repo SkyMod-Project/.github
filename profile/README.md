@@ -4,7 +4,7 @@ SkyMod is a project working on making Scratch even faster than TurboWarp. The fi
 ## Roadmap
 - [ ] Version 1
   - [x] Functioning Editor and Project Page
-  - [ ] Custom Blocks
+  - [x] Custom Blocks
   - [x] Custom Extensions
   - [ ] Hosting
 - [ ] Version 2
