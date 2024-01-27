@@ -2,14 +2,14 @@
 SkyMod is a project working on making Scratch even faster than TurboWarp. The first 1-3 versions will be based on TurboWarp with no performance improvement. Versions 3-5 will either use a C++ backend or even compile to C++ and then to Binary.
 
 ## Roadmap 🚧
-- [ ] Version 1
+- [x] Version 1
   - [x] Functioning Editor and Project Page
   - [x] Custom Blocks
   - [x] Custom Extensions
-  - [ ] Hosting
+  - [x] Hosting
 - [ ] Version 2
   - [ ] Server Backend
-  - [ ] Scratch Auth
+  - [x] Scratch Auth
   - [ ] Editor Integration
   - [ ] Main Page
 - [ ] Version 3
